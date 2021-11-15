@@ -1,0 +1,14 @@
+1. Included a new Table for hobbies and Education.
+2. Created a new lists for hobbies and Education
+3. Changed the alignment of Name to center.
+4. Changed the shortcut icon picture.
+5. Changed the Table Background color.
+6. Changed the Background image.
+7. Changed the background image properties to cover size, fixed, and no-reapeats.
+8. 
+
+
+
+
+UsmanIshaq22
+Enduser2021

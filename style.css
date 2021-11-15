@@ -1,0 +1,50 @@
+.logocss{
+  border-radius:25px;
+}
+
+body{background-image: url("Image.jpg");
+ background-size:cover;
+ background-repeat: no-repeat;
+backgroun-attachment: fixed;}
+
+table{background-color: #D7E8C4;}
+h2{font-size:20px; color:red;}
+h4{color:#396949; font-family: verdana;font-size:12px;}
+h3{color:#396949; font-family: verdana;font-size:15px;}
+
+table{
+    width: 1000px;
+    margin-left: 150px;
+    margin-top: 45px;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+
+ul {
+  display: inline-block;
+  *display: inline;
+  zoom: 1
+}
+
+
+/* Zoom on Hover : https://www.w3schools.com/howto/howto_css_zoom_hover.asp*/
+* {
+    box-sizing: border-box;
+  }
+  .zoom {
+    transition: transform .2s;
+    width: 257px;
+    height: 260px;
+    margin: 0 auto;
+    background-image: url("img/profilehtml.png");
+  }
+
+  .zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
