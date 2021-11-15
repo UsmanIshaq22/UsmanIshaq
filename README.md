@@ -10,3 +10,4 @@ Changed the background image properties to cover size, fixed, and no-reapeats.
 Classified the lists.
 Changed the List styles in Hobbies and Education.
 Edited the text in Experiences and added a list of duties.
+Added the shadow effect to h2, h3, and h4.
