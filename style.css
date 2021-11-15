@@ -9,9 +9,11 @@ backgroun-attachment: fixed;}
 
 table{background-color: #D7E8C4;}
 h2{font-size:20px; color:red;}
-h4{color:#396949; font-family: verdana;font-size:12px;}
+h4{color:#396949; font-family: verdana;font-size:14px;}
 h3{color:#396949; font-family: verdana;font-size:15px;}
-
+h2 {text-shadow: 0.5px 1px 0px red;}
+h3 {text-shadow: 0.5px 1px 0px #396949;}
+h4 {text-shadow: 0.5px 1px 0px #396949;}
 table{
     width: 1000px;
     margin-left: 150px;
